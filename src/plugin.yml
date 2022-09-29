@@ -1,0 +1,8 @@
+name: ColorEfekty
+version: 0.1
+main: me.color.Main.Main
+
+commands:
+  efekty:
+  efekt:
+  ef:
